@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Number Puzzles</string>
+
+    <string-array name="size_options">
+        <item>2</item>
+        <item>3</item>
+
+    </string-array>
+</resources>
